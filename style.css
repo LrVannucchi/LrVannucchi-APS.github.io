@@ -221,14 +221,11 @@ table{
     transform: scaleY(1);
 }
 
-footer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 10px;
-    padding: 10px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 130%;
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
 }
 
 .container{
